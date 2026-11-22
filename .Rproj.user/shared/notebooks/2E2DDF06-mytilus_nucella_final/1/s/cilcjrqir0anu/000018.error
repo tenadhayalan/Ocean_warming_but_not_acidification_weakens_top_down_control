@@ -1,0 +1,1 @@
+{"frames":[{"func":"cat(\"Mean difference:\", round(mean_diff, 3), \"mm ±\", round(se_diff, \n    3), \"SE\\n\")","file":"","line_number":0,"end_line_number":0,"character_number":0,"end_character_number":0}],"message":"Error: object 'mean_diff' not found\n"}

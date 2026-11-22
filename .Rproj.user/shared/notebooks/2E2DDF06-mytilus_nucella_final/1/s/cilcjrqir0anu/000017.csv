@@ -1,0 +1,6 @@
+"0","se_diff <- sqrt((0.1304387^2 / nrow(nucellagrowth %>% filter(temp_treatment == 22))) + (0.2220052^2 / nrow(nucellagrowth %>% filter(temp_treatment == 18))))
+
+cat(""Mean difference:"", round(mean_diff, 3), ""mm ±"", round(se_diff, 3), ""SE\n"")
+"
+"2","Error: object 'mean_diff' not found
+"
