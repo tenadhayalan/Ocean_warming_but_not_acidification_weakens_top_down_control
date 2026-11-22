@@ -15,12 +15,12 @@ As ocean warming and acidification intensify, changes in organismal physiology w
 
 ## [Data](/Data)
  *  [afdw](/Data/afdw)
-   * mussel_afdw.csv (final ash-free dry weights of mussels
-   * nucella_afdw.csv (final ash-free dry weights of whelks)
+    * mussel_afdw.csv (final ash-free dry weights of mussels
+    * nucella_afdw.csv (final ash-free dry weights of whelks)
  *  [field](/Data/field)
-   * quadrat.csv (mussel and whelk field measurements and densiites)
-   * san_pedro_temp_buoy.csv (field temperature for experimental period - data from https://data.caloos.org/#metadata/103471/station/data)
-   * full_san_pedro_temp_buoy.csv (field temperature for 2022 - data from https://data.caloos.org/#metadata/103471/station/data)
+    * quadrat.csv (mussel and whelk field measurements and densiites)
+    * san_pedro_temp_buoy.csv (field temperature for experimental period - data from https://data.caloos.org/#metadata/103471/station/data)
+    * full_san_pedro_temp_buoy.csv (field temperature for 2022 - data from https://data.caloos.org/#metadata/103471/station/data)
  * [growth](/Data/growth)
    * mytilus_initial.csv (initial mussel shell measurements and weights)
    * nucella_initial.csv (initial whelk shell measurements and weights)
